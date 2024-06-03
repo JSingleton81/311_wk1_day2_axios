@@ -46,6 +46,6 @@ Let's complete the following functions:
 * If successful, the test will have passed after receiving a `404` status code
 
 
-## Final thoughts 
+## Final thoughts g
 
 Hopefully this exercise has given you some insight into using `axios`. We should have seen multiple responses and interacted with the different parts of the response object (data, status, etc). We will continue to use axios in the future as we work with (and build our own) APIs
